@@ -20,3 +20,7 @@ Model ⇒ Model structure for various database entities
 Repository ⇒ JPA Link with Models
 Resources ⇒ Controllers, to route each query
 Services ⇒ To serve each request coming through the Resources
+
+
+<img width="1187" alt="Screenshot 2023-10-31 at 9 12 18 AM" src="https://github.com/zenilvaghasiya/Quiz-Assessment-System/assets/47736398/7a0ddfce-7680-42ed-98fa-76d4006469da">
+<img width="1187" alt="Screenshot 2023-10-31 at 9 12 07 AM" src="https://github.com/zenilvaghasiya/Quiz-Assessment-System/assets/47736398/09b333ad-c805-4171-a3d1-deae2a5cec18">
